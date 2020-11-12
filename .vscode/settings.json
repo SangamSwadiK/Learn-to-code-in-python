@@ -3,7 +3,7 @@
   "editor.minimap.enabled": false,
   "editor.tabSize": 4,
   "files.autoSave": "onFocusChange",
-  "python.pythonPath": "C:\\Users\\Sangam\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+  "python.pythonPath": "C:\\Users\\Sangam\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": false,
   "python.linting.lintOnSave": true,
